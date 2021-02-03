@@ -13,7 +13,7 @@ In this project, a web crawler on [Microsoft Academic](https://academic.microsof
 
 **Step 2.** Create a folder named *Drivers* and put the web drivers in.
 
-**Step 3.** Run the program using either ```python Crawler-Chrome.py LIMIT``` or ```python Crawler-Chrome.py LIMIT```.
+**Step 3.** Run the program using either ```$ python Crawler-Chrome.py LIMIT``` or ```$ python Crawler-Chrome.py LIMIT```.
 
 ## Google Colab Run
 
